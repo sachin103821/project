@@ -1,0 +1,71 @@
+
+    body{
+        background-image:url('bi.jPG');
+        background-size:cover;
+    }
+    nav{
+        display: flex;
+        align-items:center;
+        justify-content: space-between;
+        margin-top:-60px;
+        font-size: larger;
+    }
+    .logo{
+        color:white;
+        padding: 50px;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    span{
+        color:rgb(150, 220, 150);
+        font-family: 'Poppins', sans-serif;
+    }
+
+    nav ul li{
+        list-style-type: none;
+        display:inline-block;
+        padding: 25px;
+        font-family: 'Poppins', sans-serif;
+        
+        
+    }
+
+    nav ul li a{
+        color:white;
+        text-decoration:none;
+    }
+    nav ul li a:hover{
+        color:rgb(123, 26, 26);
+        transition: .5s;
+        font-size: 20px;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .aaa{
+        padding: 50px;
+        font-size: 50px;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .b{
+        color:rgb(45, 115, 219);
+        padding:-10px;
+        margin-top:-30px;
+    }
+    .name{
+        font-size:60px;
+        color:rgb(216, 222, 34);
+        font-style: italic;
+    }
+    #submit{
+        background-color: red;
+        width: 75px;
+        height:26px;
+        
+    }
+    .submit{
+                background-color: red;
+                height: 25px;
+                
+    }
+   
